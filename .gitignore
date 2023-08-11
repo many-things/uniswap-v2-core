@@ -1,2 +1,7 @@
 node_modules/
 build/
+
+.idea/
+.env
+out/
+cache/
